@@ -4,3 +4,5 @@
 Created from [gatsby-starter-default](https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-default/) starter template
 
 See [netlify.toml](netlify.toml)
+
+Find recorded test results and artifacts at [![Cypress Dashboard](https://img.shields.io/badge/cypress-dashboard-brightgreen.svg)](https://dashboard.cypress.io/#/projects/ns1yet/runs)
