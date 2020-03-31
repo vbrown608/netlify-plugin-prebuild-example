@@ -12,7 +12,7 @@ Click this button to fork this repository and deploy it on Netlify [![Deploy to 
 See [netlify.toml](netlify.toml)
 
 ### View Results
-Find recorded test results and artifacts at [![Cypress Dashboard](https://img.shields.io/badge/cypress-dashboard-brightgreen.svg)](https://dashboard.cypress.io/#/projects/ns1yet/runs)
+Find recorded test results and artifacts at [![Cypress Dashboard](https://img.shields.io/badge/cypress-dashboard-brightgreen.svg)](https://dashboard.cypress.io/#/projects/ns1yet/runs). We have enabled [Cypress GitHub App](https://on.cypress.io/github-integration) to show checks per group for each pull request.
 
 [renovate-badge]: https://img.shields.io/badge/renovate-app-blue.svg
 [renovate-app]: https://renovateapp.com/
